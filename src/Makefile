@@ -41,7 +41,7 @@ PROJECT_SOURCE_FILES  ?= \
     screen_ending.c
 
 # raylib library variables
-RAYLIB_PATH           ?= C:\raylib\raylib
+RAYLIB_PATH           ?= /media/jack/Files/Projects/raylib
 RAYLIB_INCLUDE_PATH   ?= $(RAYLIB_PATH)/src
 RAYLIB_LIB_PATH       ?= $(RAYLIB_PATH)/src
 # Library type used for raylib: STATIC (.a) or SHARED (.so/.dll)
